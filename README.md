@@ -19,6 +19,11 @@ If vehicle body shields GPS signal, you can connect active GPS antenna.
 
 Speedometer uses Atmega324PA MCU with real-time GPS messages processing with GNSS GG1802 GPS receiver.
 
+![Image alt](https://github.com/vkshardware/GPS_Speedometer_G2.2/blob/master/schematic_pic/p01.png)
+
+![Image alt](https://github.com/vkshardware/GPS_Speedometer_G2.2/blob/master/schematic_pic/p02.png)
+
+
 All software and hardware designs are available here. 
 
 ****
