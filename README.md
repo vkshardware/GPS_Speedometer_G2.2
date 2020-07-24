@@ -2,7 +2,7 @@
 4-digits Speedometer (+ Odometer + Altimeter + Clock) for DIY all-terrain vehicles (ATV) with PULSE output
 
 
-#vksensor GPS Speedometer G2.2
+**vksensor GPS Speedometer G2.2
 
 ![Image alt](https://github.com/vkshardware/GPS_Speedometer_G2.2/blob/master/speedometer_view.png)
 
@@ -20,6 +20,7 @@ Speedometer uses Atmega324PA MCU with real-time GPS messages processing with GNS
 
 All software and hardware designs are available here. 
 
+****
 altimeter2_2_1 (dir) - C++ source code (Atmel Studio 7) 
 
 3d_case_model (dir) - STL model for PLA plastic 3d printing
@@ -36,6 +37,7 @@ Manual G2.2_eng.pdf - English manual
 
 Manual G2.2_ru.pdf - Russian manual
 
+****
 
 Thank you for yours attention! Email me vkshardware@gmail.com if you have any questions.
 
